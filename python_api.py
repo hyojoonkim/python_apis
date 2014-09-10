@@ -1,5 +1,5 @@
 #################################################
-# © Copyright 2014 Hyojoon Kim
+# (c)  Copyright 2014 Hyojoon Kim
 # All Rights Reserved 
 # 
 # email: deepwater82@gmail.com
